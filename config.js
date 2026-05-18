@@ -7,26 +7,12 @@ if (fs.existsSync('.env')) {
 
 module.exports = {
 
-    // =============================
-    // DATABASE
-    // =============================
-    DATABASE_URL:
-        process.env.MONGODB_URI ||
-        process.env.DATABASE_URL ||
-        "",
-
-    // =============================
-    // BOT CORE SETTINGS
-    // =============================
     OWNER_NUMBER:
         process.env.OWNER_NUMBER ||
         "923000831014",
     
     PREFIX: process.env.PREFIX || ".",
 
-    // =============================
-    // GLOBAL BRANDING
-    // =============================
     BOT_NAME:
         process.env.BOT_NAME ||
         "Hacker-Kashi-SMD",
@@ -51,18 +37,10 @@ module.exports = {
         process.env.MENU_IMG ||
         "https://bandaheali-cdn.koyeb.app/media/bot_1779069110580.jpg",
 
-    // =============================
-    // SITE URL FOR PAIR CMD
-    // =============================
-    SITE_URL:
-        process.env.SITE_URL ||
-        "https://mr-shaban.vercel.app",
-
         PORT: 
         process.env.PORT ||
         "21604",
     SESSION_NAME: "hackerbot",
-    USE_PAIRING_CODE: true,
-    PRINT_QR_IN_TERMINAL: false,
-    PAIRING_CODE: true,
+    USE_PAIRING_CODE: false,
+    PRINT_QR_IN_TERMINAL: true,
 };

@@ -1,5 +1,5 @@
 {
-  "name": "smd-mini",
+  "name": "Kashi¹⁰¹⁴-SMD",
   "version": "1.0.0",
   "description": "SMD Mini WhatsApp Bot using Baileys and MongoDB",
   "type": "commonjs",
@@ -8,15 +8,15 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Team-Bandaheali",
+  "author": "Team-Hacker-Kashi¹⁰¹⁴",
   "license": "MIT",
   "keywords": [
     "smd",
-    "shaban",
-    "shabanmd",
-    "bandaheali",
+    "kashi",
+    "kashi-smd",
+    "hacker-kashi¹⁰¹⁴",
     "edith",
-    "team-bandaheali"
+    "team-hacker-kashi¹⁰¹⁴"
   ],
   "dependencies": {
     "@whiskeysockets/baileys": "latest",

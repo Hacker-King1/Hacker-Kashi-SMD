@@ -1,11 +1,11 @@
 {
-  "name": "SMD-MiNi",
-  "description": "Javascript WhatsApp bot powered by Team-Bandaheali",
-  "logo": "https://bandaheali-cdn.koyeb.app/bandaheali/smd.jpg",
+  "name": "Hacker-Kashi¹⁰¹⁴",
+  "description": "Javascript WhatsApp bot powered by Team-Kashi¹⁰¹⁴",
+  "logo": "https://bandaheali-cdn.koyeb.app/media/bot_1779069110580.jpg",
   "keywords": [
-    "SMD-MiNi",
-    "Bandaheali",
-    "Team-Bandaheali",
+    "Hacker-Kashi¹⁰¹⁴",
+    "Kashi-Rajput",
+    "Team-Hacker-Kashi¹⁰¹⁴",
     "WhatsApp Bot",
     "Baileys Bot",
     "Nodejs Bot"
@@ -21,7 +21,7 @@
 
     "OWNER_NUMBER": {
       "description": "Bot owner WhatsApp number without + sign",
-      "value": "923253617422",
+      "value": "923000831014",
       "required": true
     },
 
@@ -33,37 +33,37 @@
 
     "BOT_NAME": {
       "description": "Bot display name",
-      "value": "Rashid",
+      "value": "Hacker Kashi¹⁰¹⁴",
       "required": false
     },
 
     "OWNER_NAME": {
       "description": "Bot owner name",
-      "value": "THE-DEVIL",
+      "value": "Kashi Rajput",
       "required": false
     },
 
     "CAPTION": {
       "description": "Footer caption used in bot messages",
-      "value": "POWERED BY TEAM-BANDAHEALI",
+      "value": "POWERED BY TEAM-Kashi¹⁰¹⁴",
       "required": false
     },
 
     "STATUS_MSG": {
       "description": "Bot auto status message",
-      "value": "Hello From Team-Bandaheali",
+      "value": "Hello From Team-Hacker-Kashi¹⁰¹⁴",
       "required": false
     },
 
     "NEWSLETTER_JID": {
       "description": "WhatsApp newsletter/channel JID",
-      "value": "120363175375282051@newsletter",
+      "value": "120363425860606804@newsletter",
       "required": false
     },
 
     "MENU_IMG": {
       "description": "Menu image URL",
-      "value": "https://bandaheali-cdn.koyeb.app/bandaheali/smd.jpg",
+      "value": "https://bandaheali-cdn.koyeb.app/media/bot_1779069110580.jpg",
       "required": false
     },
 

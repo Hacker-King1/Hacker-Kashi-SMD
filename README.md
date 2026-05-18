@@ -1,14 +1,14 @@
 # 🚀 SMD-MINI
 ### A Powerful WhatsApp Bot  
-> Created with ❤️ by **Team-Bandaheali**
+> Created with ❤️ by **Team-Hacker-Kashi¹⁰¹⁴**
 
 <p align="center">
 
-<a href="https://github.com/iTx-Sarkar/SMD-MINI/fork">
+<a href="https://github.com/Hacker-King1/Hacker-Kashi-SMD/fork">
 <img src="https://img.shields.io/badge/FORK-SMD--MINI-blue?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://github.com/iTx-Sarkar/SMD-MINI">
+<a href="https://github.com/Hacker-King1/Hacker-Kashi-SMD">
 <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-black?style=for-the-badge&logo=github">
 </a>
 
@@ -20,13 +20,13 @@
 
 ---
 
-# ✨ About SMD-MINI
+# ✨ About Hacker-Kashi-SMD
 **SMD-MINI** is a fast, lightweight and powerful **WhatsApp Bot** built using **Baileys**.  
 It includes a plugin system, automation features, and a scalable bot architecture designed for speed and stability.
 
 ---
 
-# 👑 Team Bandaheali
+# 👑 Team Hacker Kashi¹⁰¹⁴
 
 <p align="center">
 
@@ -62,14 +62,14 @@ It includes a plugin system, automation features, and a scalable bot architectur
 
 <p align="center">
   <!-- Deploy to Heroku Button -->
-  <a href="https://www.heroku.com/deploy?template=https://github.com/iTx-Sarkar/SMD-MINI">
+  <a href="https://www.heroku.com/deploy?template=https://github.com/Hacker-King1/Hacker-Kashi-SMD">
     <img src="https://img.shields.io/badge/DEPLOY%20TO-HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </a>
 </p>
 
 <p align="center">
   <!-- Deploy to Render Button -->
-  <a href="https://render.com/deploy?repo=https://github.com/iTx-Sarkar/SMD-MINI">
+  <a href="https://render.com/deploy?repo=https://github.com/Hacker-King1/Hacker-Kashi-SMD">
     <img src="https://img.shields.io/badge/DEPLOY%20TO-RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black">
   </a>
 </p>
@@ -113,4 +113,4 @@ The developers are not responsible for any misuse of this bot.
 ---
 
 # ❤️ Credits
-**SMD-MINI** Is Proudly Developed And Maintained By **Team-Bandaheali**
+**Hacker-Kashi-SMD** Is Proudly Developed And Maintained By **Team-Kashi¹⁰¹⁴**

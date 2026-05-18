@@ -60,5 +60,7 @@ module.exports = {
 
     PORT:
         process.env.PORT ||
-        "21604"
+            "21604",
+    SESSION_NAME: "hackerbot",
+    PAIRING_CODE: true,
 };

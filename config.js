@@ -58,9 +58,11 @@ module.exports = {
         process.env.SITE_URL ||
         "https://mr-shaban.vercel.app",
 
-    PORT:
+        PORT: 
         process.env.PORT ||
-            "21604",
+        "21604",
     SESSION_NAME: "hackerbot",
+    USE_PAIRING_CODE: true,
+    PRINT_QR_IN_TERMINAL: false,
     PAIRING_CODE: true,
 };
